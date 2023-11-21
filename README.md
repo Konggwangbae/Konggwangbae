@@ -1,9 +1,8 @@
 <h1 align="center">Hi,🤗 This is Gwngbae Kong, a developer who codes dreams.</h1>
-<h3 align="center">I am working with the mission of change the world a better than yesterday</h3>
+<h3 align="left">I am working with the mission of change the world a better than yesterday</h3>
 
 - 📫 How to reach me **first2215@naver.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
